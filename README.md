@@ -4,7 +4,7 @@
 I build products that sit on top of fragile infrastructure, human operations, and real unit economics. Most of my work has been in markets where reliability and cost matter more than growth hacks.
 
 ## What I’ve Built Across
-- Early mobile applications (pre-smartphone scale) 2008 [Atomins](https://github.com/samverekar/atominds)
+- Early mobile applications (pre-smartphone scale) 2008 [Atominds](https://github.com/samverekar/atominds)
 - Network-led platforms during India’s 3G rollout 
 - Social and logistics systems
 - Regional digital media and news platforms
