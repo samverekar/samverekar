@@ -21,7 +21,7 @@ I build products where infrastructure constraints, operational reality, and unit
 
 ### Post Covid
 - Regulated service marketplaces
-- OTT, LMS, and field diagnostics SaaS
+- OTT, LMS, and field diagnostics SaaS [amuze-ott-learning-platform](https://github.com/samverekar/amuze-ott-learning-platform)
 - Live sports streaming and marketplace infrastructure
 
 ## How I Think About Products
