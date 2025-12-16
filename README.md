@@ -17,7 +17,7 @@ I build products where infrastructure constraints, operational reality, and unit
 - lawiz-legal-service-platform [Lawiz](https://github.com/samverekar/lawiz-legal-service-platform)
   
 ### Entrepreneurial journey
-- Seedr
+- Seedr — Urban Gardening Services & Platform
 
 ### Post Covid
 - Regulated service marketplaces
