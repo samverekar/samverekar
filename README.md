@@ -20,8 +20,8 @@ I build products where infrastructure constraints, operational reality, and unit
 - Urban Gardening Services & Platform [Seedr](https://github.com/samverekar/seedr-urban-gardening-platform)
 
 ### Post Covid
-- Regulated service marketplaces
 - OTT, LMS, and field diagnostics SaaS [amuze-ott-learning-platform](https://github.com/samverekar/amuze-ott-learning-platform)
+- Mobile Diagnostics Platform [Vitor Health](https://github.com/samverekar/Vitor-Health)
 - Live sports streaming and marketplace infrastructure
 
 ## How I Think About Products
