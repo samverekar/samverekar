@@ -1,7 +1,7 @@
 # Sam Verekar
 
 ## What I Build
-I build products that sit on top of fragile infrastructure, human operations, and real unit economics. Most of my work has been in markets where reliability and cost matter more than growth hacks.
+- I build products where infrastructure constraints, operational reality, and unit economics define what can be shipped.
 
 ## What I’ve Built Across
 - SMS Marketing (pre-smartphone scale) 2006-2008 | Co-Founder | Belgaum | [Atominds](https://github.com/samverekar/atominds)
