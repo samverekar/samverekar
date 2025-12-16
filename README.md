@@ -11,13 +11,13 @@ I build products where infrastructure constraints, operational reality, and unit
 - BSNL-3g-tv |Digital Product Manager | Bangalore | [Percept Knorigin](https://github.com/samverekar/percept-knorigin-3g-tv)
 
 ### Chota Media
--  Verayu Social and logistics systems [Verayu](https://github.com/samverekar/verayu-social-mobility-platform)
--  Regional digital media and news platforms [Samaya News Kannada](https://github.com/samverekar/kannada-digital-news-platform)
+- Verayu Social and logistics systems [Verayu](https://github.com/samverekar/verayu-social-mobility-platform)
+- Regional digital media and news platforms [Samaya News Kannada](https://github.com/samverekar/kannada-digital-news-platform)
 - Voice-first consumer platforms [Radiowalla](https://github.com/samverekar/radiowalla-audio-platforms)
-- lawiz-legal-service-platform [Lawiz](https://github.com/samverekar/lawiz-legal-service-platform)
+- legal-service-platform [Lawiz](https://github.com/samverekar/lawiz-legal-service-platform)
   
 ### Entrepreneurial journey
-- Seedr — Urban Gardening Services & Platform [Seedr](https://github.com/samverekar/seedr-urban-gardening-platform)
+- Urban Gardening Services & Platform [Seedr](https://github.com/samverekar/seedr-urban-gardening-platform)
 
 ### Post Covid
 - Regulated service marketplaces
