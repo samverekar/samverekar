@@ -7,7 +7,7 @@ I build products that sit on top of fragile infrastructure, human operations, an
 - SMS Marketing (pre-smartphone scale) 2006-2008 | Co-Founder | Belgaum | [Atominds](https://github.com/samverekar/atominds)
 - Early mobile applications 2008-2010 | Product Manager & Project Manager| Bangalore | [Pappilon](https://github.com/samverekar/pappilon-mobile-apps)
 - Network-led platforms during India’s 3G rollout 2010-2011 | Digital Product Manager | Bangalore | [Percept Knorigin](https://github.com/samverekar/percept-knorigin-3g-rollout)
-- percept-knorigin-3g-tv |Digital Product Manager | Bangalore | [Percept Knorigin](https://github.com/samverekar/percept-knorigin-3g-tv)
+- BSNL-3g-tv |Digital Product Manager | Bangalore | [Percept Knorigin](https://github.com/samverekar/percept-knorigin-3g-tv)
 - Social and logistics systems
 - Regional digital media and news platforms
 - Voice-first consumer platforms
