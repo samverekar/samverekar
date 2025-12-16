@@ -13,6 +13,7 @@ I build products where infrastructure constraints, operational reality, and unit
 -  Verayu Social and logistics systems [Verayu](https://github.com/samverekar/verayu-social-mobility-platform)
 -  Regional digital media and news platforms [Samaya News Kannada](https://github.com/samverekar/kannada-digital-news-platform)
 - Voice-first consumer platforms [Radiowalla](https://github.com/samverekar/radiowalla-audio-platforms)
+- lawiz-legal-service-platform [Lawiz](https://github.com/samverekar/lawiz-legal-service-platform)
 - Seedr
 ### Post Covid
 - Regulated service marketplaces
