@@ -1,7 +1,7 @@
 # Sam Verekar
 
 ## What I Build
-- I build products where infrastructure constraints, operational reality, and unit economics define what can be shipped.
+I build products where infrastructure constraints, operational reality, and unit economics define what can be shipped.
 
 ## What I’ve Built Across
 ### Early days
