@@ -1,0 +1,2 @@
+mkdir -p apps/api apps/web packages/domain packages/utils infra/sql
+npm init -y
