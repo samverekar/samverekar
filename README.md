@@ -26,6 +26,7 @@ I build products where infrastructure constraints, operational reality, and unit
 ## Sports Tech
 - Live sports streaming and marketplace infrastructure [Myysports]
 - [mma-ai-event-intelligence](https://github.com/samverekar/mma-ai-event-intelligence)
+- [cricket-ground-booking](https://github.com/samverekar/cricket-ground-booking)
 
 ## How I Think About Products
 - Infrastructure readiness dictates product timing
